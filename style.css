@@ -1,0 +1,21 @@
+h1{
+    text-decoration: underline;
+}
+
+.intro{
+    border: solid lightgrey;
+    margin: 10px;
+    padding: 5px;
+}
+
+.edu{
+    border: solid lightgrey;
+    margin: 10px;
+    padding: 5px;
+}
+
+.work{
+    border: solid lightgrey;
+    margin: 10px;
+    padding: 5px;
+}
